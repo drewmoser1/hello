@@ -2,7 +2,7 @@
  * Author: Drew Moser
  * Date: 2024/08/29
  *
- * A simple hello world program in C
+ * Stating my Major and Name
  *
  */
 #include <stdlib.h>
